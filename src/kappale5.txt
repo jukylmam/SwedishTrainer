@@ -1,0 +1,68 @@
+antal:määrä
+användare:käyttäjä
+avgöra:ratkaista
+beroende på ngt:riippuen jstk
+beskriva:kuvailla
+bestämma:määrätä
+bygga:rakentaa
+databasmjukvara:tietokantaohjelmisto
+del:osa
+dela upp:jakautua
+designa:sunnitella
+fas:vaihe
+felkorrigering:virheenkorjaus
+flera:useampi
+främst:toiminto
+förbättring:parannus
+företag:yritys
+förstå:ymmärtää
+ge klarhet i ngt:selventää jtk
+genomföra:viedä läpi
+i samförstånd med ngn:yhteisymmärryksessä jnk kanssa
+implementering:toteutus
+innebära:pitää sisällään
+innebörd:sisältö
+installera:asentaa
+kartlägga:kartoittaa
+klargöra:selventää
+komma fram till ngt:päästä selville jstk
+komma överens:päästä sopimukseen
+kommunicera:kommunikoida
+kortfattat:lyhyesti
+krav:vaatimus
+kravspecifikation:vaatimusmäärittely
+kräva:vaatia
+kund:asiakas
+kundskap:tieto
+ligga till grund för ngt:olla jnk pohjana
+lägga upp:suunnitella
+mål:maali
+omgivning:ympäristö
+ordenligt:kunnolla
+plattform:alusta
+producera:tuottaa
+riktlinje:suuntaviiva
+samarbete:yhteistyö
+samling:kokoelma
+sammanhängande:yhteenkuuluva
+skärmbild:näyttökuva
+språk:kieli
+systembeslut:järjestelmää koskeva päätös
+systemutveckling:järjestelmäkehys
+ta fram ngt:kehittää jtk
+testa:testata
+tillfredsställande:tyydyttävä
+tillsammans:yhdessä
+tvärvetenskaplig:poikkitieteellinen
+underhåll:ylläpito
+uppnå:saavuttaa
+utbilda:kouluttaa
+utföra:suorittaa
+utvecklare:kehittäjä
+variera:vaihdella
+visa:näyttää
+viss:tietty
+välja:valita
+äga rum:tapahtua
+önskemål:toive
+överbrygga:ylittää
